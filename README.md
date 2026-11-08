@@ -1,14 +1,14 @@
 # experiments-3656
 
-A informal playground that tracks throwaway code.
+A quiet sketchbook that keeps half-finished ideas.
 
 ## Contents
 
-- Random snippets
-- - Scratch work
+- Quick prototypes
+- - Random snippets
   - - Small experiments
    
-    - Content changes without warning.
+    - No roadmap, no promises.
    
     - ## Clone
    
